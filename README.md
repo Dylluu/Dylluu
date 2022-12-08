@@ -26,7 +26,7 @@ I am an aspiring Software Engineer
 
 - I graduated from University of California, Santa Barbara.
 
-- Hobbies include: Playing video games, basketball 
+- Hobbies include: Video games, Basketball 
 
 
 
