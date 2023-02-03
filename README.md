@@ -16,14 +16,6 @@
 
 ---
 
-### About Me : 
-
-- I graduated from App Academy December 2022
-
-- I graduated from University of California, Santa Barbara.
-
-- Hobbies include: Video games, Basketball 
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dylluu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
