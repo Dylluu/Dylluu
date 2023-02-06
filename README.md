@@ -1,6 +1,7 @@
  ## About Me:
  
  - UCSB c/o 2022 Biology BS & Economics BA
+ - App Academy graduate
  - Full-stack engineer with a preference for front end development
 
 
