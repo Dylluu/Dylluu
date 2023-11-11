@@ -1,6 +1,6 @@
  ## About Me:
  
- - Full-stack developer at AAT Bioquest
+ - Full-Stack Developer at AAT Bioquest
  - Computer Science @ Oregon State University
 
 
