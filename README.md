@@ -1,7 +1,7 @@
  ## About Me:
  
- - Full Stack Developer at AAT Bioquest
- - Computer Science @ Oregon State University
+ - Software Engineer @ TechNext Inc.
+ - MS in CS candidate @ Georgia Tech
 
 
  
